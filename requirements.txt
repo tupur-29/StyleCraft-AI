@@ -1,0 +1,20 @@
+# For Backend API (FastAPI)
+fastapi
+uvicorn[standard]
+pydantic
+
+# For Database Interaction (PostgreSQL & SQLAlchemy)
+sqlalchemy
+psycopg2-binary # PostgreSQL adapter
+
+# For Frontend UI (Streamlit) & HTTP Requests
+streamlit
+requests # For Streamlit to call backend AND for backend to call Ollama API
+
+# For Environment Management
+python-dotenv
+
+# For Testing
+pytest
+httpx
+pytest-cov 

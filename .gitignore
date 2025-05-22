@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and OS specific
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Environment files 
+*.env
+# Exception for example files
+!*.env.example
+
+# SQLite databases (if used for local testing)
+*.db
+test.db
+*.sqlite3
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+logs/
+
