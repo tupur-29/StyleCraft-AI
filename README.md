@@ -1,4 +1,4 @@
-##🔄 StyleCraft AI
+## 🔄 StyleCraft AI
 
 StyleCraft AI is a full-stack AI-powered web application designed to transform user queries into different response styles, such as casual and formal. It leverages a FastAPI backend for robust API services and a Streamlit frontend for an interactive user experience. AI-powered text generation is handled by a locally hosted Ollama instance serving the `qwen:0.5b` model.
 
